@@ -22,7 +22,7 @@ A simple Database Management System (DBMS) implemented using Bash scripting. Thi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/paulamagdi0/Bash-DBMS.git
+   git clone https://github.com/PaulaMagdi0/Bash-DBMS.git
    ```
 2. Navigate to the project directory:
    ```bash
