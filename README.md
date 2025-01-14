@@ -1,4 +1,3 @@
-
 # Bash-DBMS
 
 A simple Database Management System (DBMS) implemented using Bash scripting. This project allows users to perform basic database operations such as creating and deleting databases and tables, as well as inserting, updating, and deleting records.
@@ -30,14 +29,14 @@ A simple Database Management System (DBMS) implemented using Bash scripting. Thi
    ```
 3. Ensure the main script has execute permissions:
    ```bash
-   chmod +x main_script.sh
+   chmod +x DBMENU
    ```
 
 ## Usage
 
 Run the main script:
 ```bash
-./main_script.sh
+./DBMENU
 ```
 Follow the on-screen prompts to perform database operations.
 
